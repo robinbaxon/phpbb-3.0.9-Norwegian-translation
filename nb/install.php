@@ -430,13 +430,13 @@ $lang = array_merge($lang, array(
 	'FILES_NOT_MODIFIED'			=> 'Ikke modifiserte filer',
 	'FILES_NOT_MODIFIED_EXPLAIN'	=> 'Følgende filer er ikke endret, og representerer de opprinnelige phpBB filene fra den versjonen du vil oppdatere fra.',
 	'FILES_UP_TO_DATE'				=> 'Oppdaterte filer',
-	'FILES_UP_TO_DATE_EXPLAIN'		=> 'The following files are already up to date and do not need to be updated.',
-	'FTP_SETTINGS'					=> 'FTP settings',
-	'FTP_UPDATE_METHOD'				=> 'FTP upload',
+	'FILES_UP_TO_DATE_EXPLAIN'		=> 'Følgende filer er allerede oppdatert og trenger ikke å bli oppdatert.',
+	'FTP_SETTINGS'					=> 'FTP-innstillinger',
+	'FTP_UPDATE_METHOD'				=> 'FTP-opplastning',
 
-	'INCOMPATIBLE_UPDATE_FILES'		=> 'The update files found are incompatible with your installed version. Your installed version is %1$s and the update file is for updating phpBB %2$s to %3$s.',
-	'INCOMPLETE_UPDATE_FILES'		=> 'The update files are incomplete.',
-	'INLINE_UPDATE_SUCCESSFUL'		=> 'The database update was successful. Now you need to continue the update process.',
+	'INCOMPATIBLE_UPDATE_FILES'		=> 'Oppdateringsfilene er ukompatible med din installerte versjon. Din installerte versjon er %1$ og oppdateringsfilen er for oppdatering fra phpB %2$s to %3$s.',
+	'INCOMPLETE_UPDATE_FILES'		=> 'Oppdateringsfilene er ukomplette.',
+	'INLINE_UPDATE_SUCCESSFUL'		=> 'Database oppdateringen var vellykket. Nå må du fortsette oppdateringsprosessen.',
 
 	'KEEP_OLD_NAME'		=> 'Keep username',
 

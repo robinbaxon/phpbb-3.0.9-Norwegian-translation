@@ -6,7 +6,7 @@
 * @package language
 * @version $Id$
 * @author Morten R. N. http://www.morten.com
-* @copyright (c) 2005 phpBB Group, 2011 Morten R. N.
+* @copyright (c) 2005 phpBB Group, 2011 Norwegian translation team, Morten R. N.
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -475,155 +475,155 @@ $lang = array_merge($lang, array(
 	'NUM_CONFLICTS'					=> 'Antall konflikter',
 	'NUMBER_OF_FILES_COLLECTED'		=> 'Det er sjekket etter forskjeller i %1$d av %2$d filer.<br/>Vent til alle filene er sjekket.',
 
-	'OLD_UPDATE_FILES'		=> 'Update files are out of date. The update files found are for updating from phpBB %1$s to phpBB %2$s but the latest version of phpBB is %3$s.',
+	'OLD_UPDATE_FILES'		=> 'Oppdateringsfilene er utdatert. Oppdateringsfilene som ble funnet er for oppdatering fra phpBB %1$s til phpBB %2$s, men den nyeste versjonen av phpBB er %3$s.',
 
-	'PACKAGE_UPDATES_TO'				=> 'Current package updates to version',
-	'PERFORM_DATABASE_UPDATE'			=> 'Perform database update',
-	'PERFORM_DATABASE_UPDATE_EXPLAIN'	=> 'Below you will find a button to the database update script. The database update can take a while, so please do not stop the execution if it seems to hang. After the database update has been performed just follow the instructions to continue the update process.',
-	'PREVIOUS_VERSION'					=> 'Previous version',
+	'PACKAGE_UPDATES_TO'				=> 'Denne pakken oppdaterer til versjon',
+	'PERFORM_DATABASE_UPDATE'			=> 'Utfør databaseoppdatering',
+	'PERFORM_DATABASE_UPDATE_EXPLAIN'	=> 'Nedenfor finner du en knapp til databaseoppdaterings scriptet. Databasen Oppdateringen kan ta en stund, så vennligst ikke stopp kjøringen dersom det ser ut til å henge. Etter at database oppdateringen er utført, følg instruksjonene for å fortsette oppdateringen.',
+	'PREVIOUS_VERSION'					=> 'Forrige versjon',
 	'PROGRESS'							=> 'Progress',
 
-	'RESULT'					=> 'Result',
-	'RUN_DATABASE_SCRIPT'		=> 'Update my database now',
+	'RESULT'					=> 'Resultat',
+	'RUN_DATABASE_SCRIPT'		=> 'Oppdater databsen nå',
 
-	'SELECT_DIFF_MODE'			=> 'Select diff mode',
-	'SELECT_DOWNLOAD_FORMAT'	=> 'Select download archive format',
-	'SELECT_FTP_SETTINGS'		=> 'Select FTP settings',
-	'SHOW_DIFF_CONFLICT'		=> 'Show differences/conflicts',
-	'SHOW_DIFF_FINAL'			=> 'Show resulting file',
-	'SHOW_DIFF_MODIFIED'		=> 'Show merged differences',
-	'SHOW_DIFF_NEW'				=> 'Show file contents',
-	'SHOW_DIFF_NEW_CONFLICT'	=> 'Show differences',
-	'SHOW_DIFF_NOT_MODIFIED'	=> 'Show differences',
-	'SOME_QUERIES_FAILED'		=> 'Some queries failed, the statements and errors are listing below.',
+	'SELECT_DIFF_MODE'			=> 'Velg forskjellsvisning',
+	'SELECT_DOWNLOAD_FORMAT'	=> 'Velg pakkeformat for nedlastingen',
+	'SELECT_FTP_SETTINGS'		=> 'Velg FTP-innstillinger',
+	'SHOW_DIFF_CONFLICT'		=> 'Vis forskjeller/konflikter',
+	'SHOW_DIFF_FINAL'			=> 'Vis den endelige filen',
+	'SHOW_DIFF_MODIFIED'		=> 'Vis sammenslåtte forskjeller',
+	'SHOW_DIFF_NEW'				=> 'Vis filinnhold',
+	'SHOW_DIFF_NEW_CONFLICT'	=> 'Vis forskjeller',
+	'SHOW_DIFF_NOT_MODIFIED'	=> 'Vis forskjeller',
+	'SOME_QUERIES_FAILED'		=> 'Noen forespørsler feilet, feil og forklaringer er liste under.',
 	'SQL'						=> 'SQL',
-	'SQL_FAILURE_EXPLAIN'		=> 'This is probably nothing to worry about, update will continue. Should this fail to complete you may need to seek help at our support forums. See <a href="../docs/README.html">README</a> for details on how to obtain advice.',
-	'STAGE_FILE_CHECK'			=> 'Check files',
-	'STAGE_UPDATE_DB'			=> 'Update database',
-	'STAGE_UPDATE_FILES'		=> 'Update files',
-	'STAGE_VERSION_CHECK'		=> 'Version check',
-	'STATUS_CONFLICT'			=> 'Modified file producing conflicts',
-	'STATUS_MODIFIED'			=> 'Modified file',
-	'STATUS_NEW'				=> 'New file',
-	'STATUS_NEW_CONFLICT'		=> 'Conflicting new file',
-	'STATUS_NOT_MODIFIED'		=> 'Not modified file',
-	'STATUS_UP_TO_DATE'			=> 'Already updated file',
+	'SQL_FAILURE_EXPLAIN'		=> 'Dette er trolig ingenting å bekymre seg for, oppdateringen vil fortsette. Fullføres ikke oppdateringen, kan du søke hjelp på vårt supportforum. Se <a href="../docs/README.html">README</a> for detaljer om hvordan du kan få hjelp.',
+	'STAGE_FILE_CHECK'			=> 'Undersøk filene',
+	'STAGE_UPDATE_DB'			=> 'Oppdater databasen',
+	'STAGE_UPDATE_FILES'		=> 'Oppdater filene',
+	'STAGE_VERSION_CHECK'		=> 'Versjons sjekk',
+	'STATUS_CONFLICT'			=> 'Modifisert fil som lager konflikter',
+	'STATUS_MODIFIED'			=> 'Modifisert fil',
+	'STATUS_NEW'				=> 'Ny fil',
+	'STATUS_NEW_CONFLICT'		=> 'Nye filer som lager konflikt',
+	'STATUS_NOT_MODIFIED'		=> 'Uendrede filer',
+	'STATUS_UP_TO_DATE'			=> 'Allerede oppdaterte filer',
 
-	'TOGGLE_DISPLAY'			=> 'View/Hide file list',
-	'TRY_DOWNLOAD_METHOD'		=> 'You may want to try the download modified files method.<br />This method always works and is also the recommended update path.',
-	'TRY_DOWNLOAD_METHOD_BUTTON'=> 'Try this method now',
+	'TOGGLE_DISPLAY'			=> 'Vis/skjul filliste',
+	'TRY_DOWNLOAD_METHOD'		=> 'Det kan være lurt å prøve metoden hvor endrede filer lastes ned.<b/>Denne metoden fungerer alltid og er den anbefalt oppdatering måten.',
+	'TRY_DOWNLOAD_METHOD_BUTTON'=> 'Prøv denne metoden nå',
 
-	'UPDATE_COMPLETED'				=> 'Update completed',
-	'UPDATE_DATABASE'				=> 'Update database',
-	'UPDATE_DATABASE_EXPLAIN'		=> 'Within the next step the database will be updated.',
-	'UPDATE_DATABASE_SCHEMA'		=> 'Updating database schema',
-	'UPDATE_FILES'					=> 'Update files',
-	'UPDATE_FILES_NOTICE'			=> 'Please make sure you have updated your board files too, this file is only updating your database.',
-	'UPDATE_INSTALLATION'			=> 'Update phpBB installation',
-	'UPDATE_INSTALLATION_EXPLAIN'	=> 'With this option, it is possible to update your phpBB installation to the latest version.<br />During the process all of your files will be checked for their integrity. You are able to review all differences and files before the update.<br /><br />The file update itself can be done in two different ways.</p><h2>Manual Update</h2><p>With this update you only download your personal set of changed files to make sure you do not lose your file modifications you may have done. After you downloaded this package you need to manually upload the files to their correct position under your phpBB root directory. Once done, you are able to do the file check stage again to see if you moved the files to their correct location.</p><h2>Automatic Update with FTP</h2><p>This method is similar to the first one but without the need to download the changed files and uploading them on your own. This will be done for you. In order to use this method you need to know your FTP login details since you will be asked for them. Once finished you will be redirected to the file check again to make sure everything got updated correctly.<br /><br />',
+	'UPDATE_COMPLETED'				=> 'Oppdatering er fullført',
+	'UPDATE_DATABASE'				=> 'Oppdater database',
+	'UPDATE_DATABASE_EXPLAIN'		=> 'I det neste tinnet vil databasen bli oppdatert.',
+	'UPDATE_DATABASE_SCHEMA'		=> 'Oppdaterer databaseskjema',
+	'UPDATE_FILES'					=> 'Oppdater filene',
+	'UPDATE_FILES_NOTICE'			=> 'Kontroller at du har oppdatert forum filene også, da denne filen bare oppdaterer databasen.',
+	'UPDATE_INSTALLATION'			=> 'Oppdater phpBB installasjonen',
+	'UPDATE_INSTALLATION_EXPLAIN'	=> 'Med dette alternativet, er det mulig å oppdatere phpBB installasjon til den nyeste versjonen.<br/>Under prosessen vil alle filene dine bli integritets sjekket. Du kan gjennomgå alle forskjeller og filer før oppdateringen.<br/><br/>Filoppdateringen i seg selv kan gjøres på to forskjellige måter.</P><h2>Manuell oppdatering</h2><p>Med denne oppdateringsmetoden laster du ned ditt personlige sett med endrede filer slik at du ikke mister filendringer du måtte ha gjort. Etter at du har lastet ned denne pakken må du manuelt laste opp filene til riktig posisjon under phpBB rotkatalogen. Når dette er gjort, kan du gjøre filesjekken igjen for å se om du har flyttet filene til riktig sted.</P><h2>Automatsk oppdatering med FTP</h2><p>Denne metoden er lik den første, men uten å måtte laste ned de endrede filene og laste dem opp igjen på egen hånd. Dette vil bli gjort for deg. For å bruke denne metoden må du vite dine FTP innloggingsdetaljer siden du vil bli bedt om disse. Når du er ferdig vil du bli omdirigert til filsjekken igjen for å sørge for at alt ble oppdatert riktig.<br /><br />',
 	'UPDATE_INSTRUCTIONS'			=> '
 
-		<h1>Release announcement</h1>
+		<h1>Lanseringsinformasjon</h1>
 
-		<p>Please read <a href="%1$s" title="%1$s"><strong>the release announcement for the latest version</strong></a> before you continue your update process, it may contain useful information. It also contains full download links as well as the change log.</p>
+		<p>Vennligst les <a href="%1$s" title="%1$s"><strong>Lanseringsinformasjon for den nyeste versjonen</strong></a>før du fortsetter din oppdatering, den kan inneholde nyttig informasjon. Den inneholder også full nedlastings link samt endringslog.</p>
 
 		<br />
 
-		<h1>How to update your installation with the Automatic Update Package</h1>
+		<h1>Slik oppdaterer du installasjonen med den Automatiske Oppdateringspakken</h1>
 
-		<p>The recommended way of updating your installation listed here is only valid for the automatic update package. You are also able to update your installation using the methods listed within the INSTALL.html document. The steps for updating phpBB3 automatically are:</p>
+		<p>Den anbefalte måten å oppdatere installasjonen omtalt her er kun gyldig for den automatiske oppdateringspakken. Du kan også oppdatere installasjonen ved hjelp av metodene oppført i install.html dokumentet. Fremgangsmåten for å oppdatere phpBB3 automatisk er:</p>
 
 		<ul style="margin-left: 20px; font-size: 1.1em;">
-			<li>Go to the <a href="http://www.phpbb.com/downloads/" title="http://www.phpbb.com/downloads/">phpBB.com downloads page</a> and download the "Automatic Update Package" archive.<br /><br /></li>
-			<li>Unpack the archive.<br /><br /></li>
-			<li>Upload the complete uncompressed install folder to your phpBB root directory (where your config.php file is).<br /><br /></li>
+			<li>Gå til <a href="http://www.phpbb.com/downloads/" title="http://www.phpbb.com/downloads/">phpBB.com nedlastingsside</a> og laste ned "Automatic Update Package" arkivet.<br /><br /></li>
+			<li>Pakk ut filene.<br /><br /></li>
+			<li>Last opp den komplette utpakkede install mappen til din phpBB rotkatalog (hvor din config.php filen er).<br /><br /></li>
 		</ul>
 
-		<p>Once uploaded your board will be offline for normal users due to the install directory you uploaded now present.<br /><br />
-		<strong><a href="%2$s" title="%2$s">Now start the update process by pointing your browser to the install folder</a>.</strong><br />
+		<p>Nå vil forumet være utilgjengelig for normale brukere på grunn install mappen du lastet opp.<br /><br />
+		<strong><a href="%2$s" title="%2$s">Start oppdateringen ved å gå til install folderen med din nettleser</a>.</strong><br />
 		<br />
-		You will then be guided through the update process. You will be notified once the update is complete.
+		Du vil da bli veiledet gjennom oppdateringsprosessen. Du vil bli varslet når oppdateringen er fullført.
 		</p>
 	',
 	'UPDATE_INSTRUCTIONS_INCOMPLETE'	=> '
 
-		<h1>Incomplete update detected</h1>
+		<h1>Ufullstendig oppdatering oppdaget</h1>
 
-		<p>phpBB detected an incomplete automatic update. Please make sure you followed every step within the automatic update tool. Below you will find the link again, or go directly to your install directory.</p>
+		<p>phpBB oppdaget en ufullstendig automatisk oppdatering. Kontroller at du fulgte hvert skritt i det automatiske oppdateringsverktøyet. Nedenfor finner du linken igjen, eller gå direkte til din install katalog.</p>
 	',
-	'UPDATE_METHOD'					=> 'Update method',
-	'UPDATE_METHOD_EXPLAIN'			=> 'You are now able to choose your preferred update method. Using the FTP upload will present you with a form you need to enter your FTP account details into. With this method the files will be automatically moved to the new location and backups of the old files being created by appending .bak to the filename. If you choose to download the modified files you are able to unpack and upload them to their correct location manually later.',
-	'UPDATE_REQUIRES_FILE'			=> 'The updater requires that the following file is present: %s',
-	'UPDATE_SUCCESS'				=> 'Update was successful',
-	'UPDATE_SUCCESS_EXPLAIN'		=> 'Successfully updated all files. The next step involves checking all files again to make sure the files got updated correctly.',
-	'UPDATE_VERSION_OPTIMIZE'		=> 'Updating version and optimising tables',
-	'UPDATING_DATA'					=> 'Updating data',
-	'UPDATING_TO_LATEST_STABLE'		=> 'Updating database to latest stable release',
-	'UPDATED_VERSION'				=> 'Updated version',
-	'UPGRADE_INSTRUCTIONS'			=> 'A new feature release <strong>%1$s</strong> is available. Please read <a href="%2$s" title="%2$s"><strong>the release announcement</strong></a> to learn about what it has to offer, and how to upgrade.',
-	'UPLOAD_METHOD'					=> 'Upload method',
+	'UPDATE_METHOD'					=> 'Oppdateringsmetode',
+	'UPDATE_METHOD_EXPLAIN'			=> 'Du kan nå velge din foretrukne oppdateringsmetode. FTP opplasting vil presentere deg et skjema for å oppgi FTP kontodetaljer. Med denne metoden vil filene automatisk bli flyttet til den nye plasseringen og sikkerhetskopier av de gamle filene blir laget ved å føye til .bak på filnavnet. Hvis du velger å laste ned de endrede filene Har du mulighet til å pakke ut og laste de opp til riktig plassering manuelt senere.',
+	'UPDATE_REQUIRES_FILE'			=> 'Oppdateringsprogrammet krever at følgende filen finnes: %s',
+	'UPDATE_SUCCESS'				=> 'Oppdateringen var vellykket',
+	'UPDATE_SUCCESS_EXPLAIN'		=> 'Alle filer er oppdatert. Det neste trinnet innebærer å sjekke alle filene igjen for å sørge for at filene ble oppdatert riktig.',
+	'UPDATE_VERSION_OPTIMIZE'		=> 'Oppdaterer versjon og optimalisere tabeller',
+	'UPDATING_DATA'					=> 'Oppdaterer data',
+	'UPDATING_TO_LATEST_STABLE'		=> 'Oppdaterer databasen til siste stabile versjon',
+	'UPDATED_VERSION'				=> 'Oppdatert versjon',
+	'UPGRADE_INSTRUCTIONS'			=> 'En ny versjon <strong>%1$s</strong> er tilgjengelig. Vennligst les <a href="%2$s" title="%2$s"><strong>versjons kunngjøring</strong></a>for å lære om hva den har å tilby, og hvordan du oppgraderer.',
+	'UPLOAD_METHOD'					=> 'Opplastingsmetode',
 
-	'UPDATE_DB_SUCCESS'				=> 'Database update was successful.',
-	'USER_ACTIVE'					=> 'Active user',
-	'USER_INACTIVE'					=> 'Inactive user',
+	'UPDATE_DB_SUCCESS'				=> 'Databaseoppdateringen var vellykket.',
+	'USER_ACTIVE'					=> 'Aktiv bruker',
+	'USER_INACTIVE'					=> 'Inaktiv bruker',
 
-	'VERSION_CHECK'					=> 'Version check',
-	'VERSION_CHECK_EXPLAIN'			=> 'Checks to see if your phpBB installation is up to date.',
-	'VERSION_NOT_UP_TO_DATE'		=> 'Your phpBB installation is not up to date. Please continue the update process.',
-	'VERSION_NOT_UP_TO_DATE_ACP'	=> 'Your phpBB installation is not up to date.<br />Below is a link to the release announcement, which contains more information as well as instructions on updating.',
-	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'Your phpBB installation is not up to date.',
-	'VERSION_UP_TO_DATE'			=> 'Your phpBB installation is up to date. Although there are no updates available at this time, you may continue in order to perform a file validity check.',
-	'VERSION_UP_TO_DATE_ACP'		=> 'Your phpBB installation is up to date. There are no updates available at this time.',
-	'VIEWING_FILE_CONTENTS'			=> 'Viewing file contents',
-	'VIEWING_FILE_DIFF'				=> 'Viewing file differences',
+	'VERSION_CHECK'					=> 'Versjonssjekk',
+	'VERSION_CHECK_EXPLAIN'			=> 'Undersøker om phpBB installasjonen er oppdatert.',
+	'VERSION_NOT_UP_TO_DATE'		=> 'Din phpBB installasjon er ikke oppdatert. Fortsett oppdateringsprosessen.',
+	'VERSION_NOT_UP_TO_DATE_ACP'	=> 'Din phpBB installasjon er ikke oppdatert.<br/>Nedenfor er en link til versjons kunngjøringen, som inneholder mer informasjon samt instruksjoner om hvordan du oppdaterer.',
+	'VERSION_NOT_UP_TO_DATE_TITLE'	=> 'Din phpBB installasjon er ikke oppdatert.',
+	'VERSION_UP_TO_DATE'			=> 'Din phpBB installasjon er oppdatert. Selv om ingen oppdateringer er tilgjengelig på dette tidspunktet, kan du fortsette for å utføre en filgyldighetssjekk.',
+	'VERSION_UP_TO_DATE_ACP'		=> 'Din phpBB installasjon er oppdatert. Det er ingen oppdateringer tilgjengelig på dette tidspunktet.',
+	'VIEWING_FILE_CONTENTS'			=> 'Ser på filinnholdet',
+	'VIEWING_FILE_DIFF'				=> 'Ser på filforskjeller',
 
-	'WRONG_INFO_FILE_FORMAT'	=> 'Wrong info file format',
+	'WRONG_INFO_FILE_FORMAT'	=> 'Feil format på infofil',
 ));
 
 // Default database schema entries...
 $lang = array_merge($lang, array(
-	'CONFIG_BOARD_EMAIL_SIG'		=> 'Thanks, The Management',
-	'CONFIG_SITE_DESC'				=> 'A short text to describe your forum',
-	'CONFIG_SITENAME'				=> 'yourdomain.com',
+	'CONFIG_BOARD_EMAIL_SIG'		=> 'Takk, forumledelsen',
+	'CONFIG_SITE_DESC'				=> 'En kort beskrivelse av ditt forum',
+	'CONFIG_SITENAME'				=> 'dittdomene.no',
 
-	'DEFAULT_INSTALL_POST'			=> 'This is an example post in your phpBB3 installation. Everything seems to be working. You may delete this post if you like and continue to set up your board. During the installation process your first category and your first forum are assigned an appropriate set of permissions for the predefined usergroups administrators, bots, global moderators, guests, registered users and registered COPPA users. If you also choose to delete your first category and your first forum, do not forget to assign permissions for all these usergroups for all new categories and forums you create. It is recommended to rename your first category and your first forum and copy permissions from these while creating new categories and forums. Have fun!',
+	'DEFAULT_INSTALL_POST'			=> 'Dette er et eksempel på en post i din phpBB3 installasjon. Alt synes å fungere. Du kan slette dette innlegget hvis du vil, og fortsette å sette opp forumet. Under installasjonen vil din første kategori og ditt første forum få et passende sett av rettigheter for de forhåndsdefinerte brukergruppene administratorer, roboter, globale moderatorer, gjester, registrerte brukere og registrerte COPPA-brukere. Hvis du også velger å slette din første kategori og ditt første forum, ikke glem å tildele rettigheter for alle disse brukergruppene for alle nye kategorier og forumer du oppretter. Det anbefales å endre navn på din første kategori og ditt første forum og kopiere rettigheter fra disse når du lager nye kategorier og forum. Ha det gøy!',
 
-	'FORUMS_FIRST_CATEGORY'			=> 'Your first category',
-	'FORUMS_TEST_FORUM_DESC'		=> 'Description of your first forum.',
-	'FORUMS_TEST_FORUM_TITLE'		=> 'Your first forum',
+	'FORUMS_FIRST_CATEGORY'			=> 'Din første kategori',
+	'FORUMS_TEST_FORUM_DESC'		=> 'Beskrivelse av ditt første forumet.',
+	'FORUMS_TEST_FORUM_TITLE'		=> 'Ditt første forum',
 
-	'RANKS_SITE_ADMIN_TITLE'		=> 'Site Admin',
-	'REPORT_WAREZ'					=> 'The post contains links to illegal or pirated software.',
-	'REPORT_SPAM'					=> 'The reported post has the only purpose to advertise for a website or another product.',
-	'REPORT_OFF_TOPIC'				=> 'The reported post is off topic.',
-	'REPORT_OTHER'					=> 'The reported post does not fit into any other category, please use the further information field.',
+	'RANKS_SITE_ADMIN_TITLE'		=> 'Forumadministrator',
+	'REPORT_WAREZ'					=> 'Innlegget inneholder linker til ulovlig eller piratkopiert programvare.',
+	'REPORT_SPAM'					=> 'Det rapporterte innlegget har som eneste hensikt å annonsere for et nettsted eller et annet produkt.',
+	'REPORT_OFF_TOPIC'				=> 'Den rapporterte innlegget er off topic.',
+	'REPORT_OTHER'					=> 'Det rapporterte innlegget passer ikke inn i noen annen kategori, vennligst bruk ytterligere informasjon feltet.',
 
-	'SMILIES_ARROW'					=> 'Arrow',
-	'SMILIES_CONFUSED'				=> 'Confused',
-	'SMILIES_COOL'					=> 'Cool',
-	'SMILIES_CRYING'				=> 'Crying or Very Sad',
-	'SMILIES_EMARRASSED'			=> 'Embarrassed',
-	'SMILIES_EVIL'					=> 'Evil or Very Mad',
-	'SMILIES_EXCLAMATION'			=> 'Exclamation',
-	'SMILIES_GEEK'					=> 'Geek',
-	'SMILIES_IDEA'					=> 'Idea',
-	'SMILIES_LAUGHING'				=> 'Laughing',
-	'SMILIES_MAD'					=> 'Mad',
-	'SMILIES_MR_GREEN'				=> 'Mr. Green',
-	'SMILIES_NEUTRAL'				=> 'Neutral',
-	'SMILIES_QUESTION'				=> 'Question',
-	'SMILIES_RAZZ'					=> 'Razz',
-	'SMILIES_ROLLING_EYES'			=> 'Rolling Eyes',
-	'SMILIES_SAD'					=> 'Sad',
-	'SMILIES_SHOCKED'				=> 'Shocked',
-	'SMILIES_SMILE'					=> 'Smile',
-	'SMILIES_SURPRISED'				=> 'Surprised',
-	'SMILIES_TWISTED_EVIL'			=> 'Twisted Evil',
-	'SMILIES_UBER_GEEK'				=> 'Uber Geek',
-	'SMILIES_VERY_HAPPY'			=> 'Very Happy',
-	'SMILIES_WINK'					=> 'Wink',
+	'SMILIES_ARROW'					=> 'Pil',
+	'SMILIES_CONFUSED'				=> 'Forvirret',
+	'SMILIES_COOL'					=> 'Kul',
+	'SMILIES_CRYING'				=> 'Gråter',
+	'SMILIES_EMARRASSED'			=> 'Flau',
+	'SMILIES_EVIL'					=> 'Ond',
+	'SMILIES_EXCLAMATION'			=> 'Utropstegn',
+	'SMILIES_GEEK'					=> 'Nerd',
+	'SMILIES_IDEA'					=> 'Idé',
+	'SMILIES_LAUGHING'				=> 'Ler',
+	'SMILIES_MAD'					=> 'Sint',
+	'SMILIES_MR_GREEN'				=> 'Hr. Grønn',
+	'SMILIES_NEUTRAL'				=> 'Nøytral',
+	'SMILIES_QUESTION'				=> 'Spørsmålstegn',
+	'SMILIES_RAZZ'					=> 'Gjeip',
+	'SMILIES_ROLLING_EYES'			=> 'Rullende øyne',
+	'SMILIES_SAD'					=> 'Trist',
+	'SMILIES_SHOCKED'				=> 'Sjokkert',
+	'SMILIES_SMILE'					=> 'Smil',
+	'SMILIES_SURPRISED'				=> 'Overrasket',
+	'SMILIES_TWISTED_EVIL'			=> 'Meget ond',
+	'SMILIES_UBER_GEEK'				=> 'Kjempenerd',
+	'SMILIES_VERY_HAPPY'			=> 'Veldig glad',
+	'SMILIES_WINK'					=> 'Blunk',
 
-	'TOPICS_TOPIC_TITLE'			=> 'Welcome to phpBB3',
+	'TOPICS_TOPIC_TITLE'			=> 'Velkommen til phpBB3',
 ));
 
 ?>

@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* install [Norwegian Bokmaal]
+* mcp [Norwegian Bokmaal]
 *
 * @package language
 * @version $Id$
@@ -354,50 +354,50 @@ $lang = array_merge($lang, array(
 	'TOPIC_UNLOCKED_SUCCESS'	=> 'Det valgte emnet har blitt åpnet.',
 	'TOTAL_WARNINGS'			=> 'Totalt antall advarsler',
 
-	'UNAPPROVED_POSTS_TOTAL'		=> 'In total there are <strong>%d</strong> posts waiting for approval.',
-	'UNAPPROVED_POSTS_ZERO_TOTAL'	=> 'There are no posts waiting for approval.',
-	'UNAPPROVED_POST_TOTAL'			=> 'In total there is <strong>1</strong> post waiting for approval.',
-	'UNLOCK'						=> 'Unlock',
-	'UNLOCK_POST'					=> 'Unlock post',
-	'UNLOCK_POST_EXPLAIN'			=> 'Allow editing',
-	'UNLOCK_POST_POST'				=> 'Unlock post',
-	'UNLOCK_POST_POST_CONFIRM'		=> 'Are you sure you want to allow editing this post?',
-	'UNLOCK_POST_POSTS'				=> 'Unlock selected posts',
-	'UNLOCK_POST_POSTS_CONFIRM'		=> 'Are you sure you want to allow editing the selected posts?',
-	'UNLOCK_TOPIC'					=> 'Unlock topic',
-	'UNLOCK_TOPIC_CONFIRM'			=> 'Are you sure you want to unlock this topic?',
-	'UNLOCK_TOPICS'					=> 'Unlock selected topics',
-	'UNLOCK_TOPICS_CONFIRM'			=> 'Are you sure you want to unlock all selected topics?',
-	'USER_CANNOT_POST'				=> 'You cannot post in this forum.',
-	'USER_CANNOT_REPORT'			=> 'You cannot report posts in this forum.',
-	'USER_FEEDBACK_ADDED'			=> 'User feedback added successfully.',
-	'USER_WARNING_ADDED'			=> 'User warned successfully.',
+	'UNAPPROVED_POSTS_TOTAL'		=> 'Det er totalt <strong>%d</strong> innlegg som venter på godkjenning.',
+	'UNAPPROVED_POSTS_ZERO_TOTAL'	=> 'Der er ingen innlegg som venter på godkjenning.',
+	'UNAPPROVED_POST_TOTAL'			=> 'Det er <strong>1</strong> som venter på godkjenning.',
+	'UNLOCK'						=> 'Åpne',
+	'UNLOCK_POST'					=> 'Åpne innlegg',
+	'UNLOCK_POST_EXPLAIN'			=> 'Tillat redigering',
+	'UNLOCK_POST_POST'				=> 'Åpne innlegg',
+	'UNLOCK_POST_POST_CONFIRM'		=> 'Er du sikker på at du vil tillate redigering av dette innlegget?',
+	'UNLOCK_POST_POSTS'				=> 'Åpne valgte innlegg',
+	'UNLOCK_POST_POSTS_CONFIRM'		=> 'Er du sikker på at du vil tillate redigering av de valgte innleggene?',
+	'UNLOCK_TOPIC'					=> 'Åpne emne',
+	'UNLOCK_TOPIC_CONFIRM'			=> 'Er du sikker på at du vil åpne dette emnet?',
+	'UNLOCK_TOPICS'					=> 'åpne valgte emner',
+	'UNLOCK_TOPICS_CONFIRM'			=> 'Er du sikker på at du vil åpne de valgte emnene?',
+	'USER_CANNOT_POST'				=> 'Du kan ikke skrive i dette forumet.',
+	'USER_CANNOT_REPORT'			=> 'Du kan ikke rapportere innlegg i dette forumet',
+	'USER_FEEDBACK_ADDED'			=> 'Brukerkommentarer lagt til.',
+	'USER_WARNING_ADDED'			=> 'Brukeren har blitt advart.',
 
-	'VIEW_DETAILS'			=> 'View details',
-	'VIEW_PM'				=> 'View private message',
-	'VIEW_POST'				=> 'View post',
+	'VIEW_DETAILS'			=> 'Se på detaljer',
+	'VIEW_PM'				=> 'Se på private meldinger',
+	'VIEW_POST'				=> 'Se på innlegg',
 
-	'WARNED_USERS'			=> 'Warned users',
-	'WARNED_USERS_EXPLAIN'	=> 'This is a list of users with unexpired warnings issued to them.',
-	'WARNING_PM_BODY'		=> 'The following is a warning which has been issued to you by an administrator or moderator of this site.[quote]%s[/quote]',
-	'WARNING_PM_SUBJECT'	=> 'Board warning issued',
-	'WARNING_POST_DEFAULT'	=> 'This is a warning regarding the following post made by you: %s .',
-	'WARNINGS_ZERO_TOTAL'	=> 'No warnings exist.',
+	'WARNED_USERS'			=> 'Advarte brukere',
+	'WARNED_USERS_EXPLAIN'	=> 'Dette er en liste over brukere med aktive advarsler.',
+	'WARNING_PM_BODY'		=> 'Dette er en advarsel til deg, utstedt av en administrator eller moderator på dette forumet.[quote]%s[/quote]',
+	'WARNING_PM_SUBJECT'	=> 'Forumadvarsel er utstedt',
+	'WARNING_POST_DEFAULT'	=> 'Dette er en advarsel vedrørende innlegget du har skrevet: %s .',
+	'WARNINGS_ZERO_TOTAL'	=> 'Ingen advarsler.',
 
-	'YOU_SELECTED_TOPIC'	=> 'You selected topic number %d: %s.',
+	'YOU_SELECTED_TOPIC'	=> 'Du valgte innlegg nummer %d: %s.',
 
 	'report_reasons'		=> array(
 		'TITLE'	=> array(
 			'WAREZ'		=> 'Warez',
 			'SPAM'		=> 'Spam',
 			'OFF_TOPIC'	=> 'Off-topic',
-			'OTHER'		=> 'Other',
+			'OTHER'		=> 'Annet',
 		),
 		'DESCRIPTION' => array(
-			'WAREZ'		=> 'The message contains links to illegal or pirated software.',
-			'SPAM'		=> 'The reported message has the only purpose to advertise for a website or another product.',
-			'OFF_TOPIC'	=> 'The reported message is off topic.',
-			'OTHER'		=> 'The reported message does not fit into any other category, please use the further information field.',
+			'WAREZ'		=> 'Meldingen inneholder linker til ulovlig eller piratkopiert programvare.',
+			'SPAM'		=> 'Den rapporterte meldingen har som eneste hensikt å annonsere for et nettsted eller et produkt.',
+			'OFF_TOPIC'	=> 'Den rapporterte meldingen er off topic.',
+			'OTHER'		=> 'Den rapporterte melding passer ikke inn i noen annen kategori, vennligst bruk ytterligere informasjon feltet.',
 		)
 	),
 ));

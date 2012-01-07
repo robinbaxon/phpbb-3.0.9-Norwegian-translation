@@ -6,7 +6,7 @@
 * @package language
 * @version $Id$
 * @author Morten R. N. http://www.morten.com
-* @copyright (c) 2005 phpBB Group, 2011 Norwegian translation team, Morten R. N.
+* @copyright (c) 2005 phpBB Group, 2012 Norwegian translation team, Morten R. N.
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
